@@ -1,3 +1,2 @@
 This is FileA.
 This a change
-This is 2nd change.
